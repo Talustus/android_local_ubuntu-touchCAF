@@ -156,7 +156,7 @@
 
   <!-- Falcon Specific Stuff -->
   <project name="ubuntu-touchCAF/android_kernel_motorola_msm8226" path="kernel/motorola/msm8226" remote="github" revision="ubuntu-touch" />
-  <project name="ubuntu-touchCAF/android_device_motorola_falcon" path="device/motorola/falcon" remote="github" revision="ubuntu-touch" />
-  <project name="ubuntu-touchCAF/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="ubuntu-touch" />
+  <project name="ubuntu-touchCAF/android_device_motorola_falcon" path="device/motorola/falcon" remote="github" revision="ubuntu-touch_experimental" />
+  <project name="ubuntu-touchCAF/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="ubuntu-touch_experimental" />
   <!-- END Falcon Specfic Stuff -->
 </manifest>
